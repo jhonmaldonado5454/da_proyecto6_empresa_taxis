@@ -1,2 +1,2 @@
 # da_proyecto6_empresa_taxis
-Análisis para una empresa de taxis de Chicago. ¿Qué tiene como objetivo encontrar los patrones de comportamiento de los pasajeros y el impacto de los factores externos en los viajes?
+Analysis for a Chicago taxi company. What aims to find passenger behavior patterns and the impact of external factors on travel?
